@@ -52,14 +52,8 @@ function Info() {
                     <br />
                     <br />
                     <ImgWrapper >
-                  <Img src="/images/mindfulness.svg" alt="hi" />
+                  <Img src="/images/cabin.svg" alt="hi" />
                 </ImgWrapper>
-                    
-
-
-                    
-
-
                     
             </InfoM>
             
