@@ -19,7 +19,7 @@ function Info() {
               </InfoColumn>
               <InfoColumn>
                 <ImgWrapper >
-                  <Img src="/images/walking.svg" alt="hi" />
+                  <Img src="/images/Walking.svg" alt="hi" />
                 </ImgWrapper>
               </InfoColumn>
             </InfoRow>
