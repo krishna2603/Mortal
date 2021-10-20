@@ -19,7 +19,7 @@ function Info() {
               </InfoColumn>
               <InfoColumn>
                 <ImgWrapper >
-                  <Img src="/images/walking.svg" alt="hi" />
+                  <Img src="/images/Walking.svg" alt="hi" />
                 </ImgWrapper>
               </InfoColumn>
             </InfoRow>
@@ -52,7 +52,7 @@ function Info() {
                     <br />
                     <br />
                     <ImgWrapper >
-                  <Img src="/images/cabin.svg" alt="hi" />
+                  <Img src="/images/mindfulness.svg" alt="hi" />
                 </ImgWrapper>
                     
             </InfoM>
